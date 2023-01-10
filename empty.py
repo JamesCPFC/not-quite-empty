@@ -4,4 +4,4 @@ print("This is one line...")
 
 print("This is another!")
 
-print("Read to push")
+print("Ready to push?")
